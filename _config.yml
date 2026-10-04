@@ -1,14 +1,10 @@
-title: "TryHackMe CTF"
-description: "Professional CTF documentation."
-
+title: "Signed Messages — TryHackMe CTF"
+description: "Portfolio-ready technical walkthrough of the Signed Messages challenge from Love at First Breach."
 theme: jekyll-theme-primer
-
 plugins:
   - jekyll-relative-links
-
 relative_links:
   enabled: true
   collections: true
-
 include:
   - docs
